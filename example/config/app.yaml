@@ -1,0 +1,3 @@
+app:
+  name: websocket
+  http_addr: :8080
